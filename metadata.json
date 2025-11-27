@@ -1,0 +1,7 @@
+{
+  "name": "Audio Scribe AI",
+  "description": "Uma aplicação moderna para transcrição de áudio usando Google Gemini. Suporta upload de arquivos e gravação via microfone.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
